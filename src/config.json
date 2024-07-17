@@ -1,0 +1,7 @@
+{
+    "embed_colors": {
+        "error": "0xfb0303",
+        "success": "0x39A931",
+        "bot": "0x1d1ce3"
+    }
+}
